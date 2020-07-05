@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.sitehead{
+    width: 100%;
+    height: 14vh;
+    background-color:crimson;
+}
+
+
+nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    color: white;
+}
+
+.logotext{
+    width: 93%;
+    height: 100px;
+    align-content: center;
+}
+
+.logotext h1{
+    line-height: 100px;
+    padding-left: 50px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Exo 2', sans-serif;
+    letter-spacing: 3px;
+    color: white;
+    text-align: center;
+}
+
+.tableauPlaceholder{
+    padding: 0 0 0 0;
+    position: relative;
+    margin: 0px 80px;
+    width: 1300px;
+    height: 927px;
+    overflow: hidden;
+    display: block;
+}
+
